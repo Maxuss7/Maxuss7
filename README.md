@@ -36,3 +36,9 @@ I want to become a Backend-Python Dev / DevOps Engineer or both :0. I'm second y
 - [🏫 School21 DevOps](https://github.com/Maxuss7/School21-DevOps)  
   DevOps course from School 21. [In progress...]
 
+- [💻 Decimal Implementation in C](https://github.com/Maxuss7/School21-Decimal-C)  
+  A library for high-precision arithmetic implemented in C. The implementation includes addition, subtraction, multiplication, and division operations, with support for rounding and scale normalization.
+  
+
+
+

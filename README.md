@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Max
 
-<!--
-**Maxuss7/Maxuss7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I want to become a Backend-Python Dev / DevOps Engineer or both :0. I'm second year MIREA student and also currently in Sber's School 21.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker-Compose](https://img.shields.io/badge/Docker--Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI--CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
+
+---
+
+### 📈 Statistics
+![My statistics](https://github-readme-stats.vercel.app/api?username=Maxuss7&show_icons=true&theme=radical)
+![Top of languagegs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxuss7&layout=compact&theme=radical)
+
+---
+
+### 📂 My pet-projects
+- [🌦️ Weather App](https://github.com/Maxuss7/Weather-report)  
+  Weather forecast app. [In progress...]
+
+- [🏫 School21 DevOps](https://github.com/Maxuss7/School21-DevOps)  
+  DevOps course from School 21. [In progress...]
+

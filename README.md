@@ -38,6 +38,9 @@ I want to become a Backend-Python Dev / DevOps Engineer or both :0. I'm second y
 
 - [💻 Decimal Implementation in C](https://github.com/Maxuss7/School21-Decimal-C)  
   A library for high-precision arithmetic implemented in C. The implementation includes addition, subtraction, multiplication, and division operations, with support for rounding and scale normalization.
+
+- [🧮 Matrix Library in C](https://github.com/Maxuss7/School21-Matrix-C)  
+  A lightweight library for creating and manipulating matrices in C. It supports arithmetic operations (addition, subtraction, multiplication), transposition, determinant/inverse calculation, and more.
   
 
 

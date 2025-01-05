@@ -33,7 +33,7 @@ I want to become a Backend-Python Dev / DevOps Engineer or both :0. I'm second y
 - [In progress...🌦️ Weather App](https://github.com/Maxuss7/Weather-report)  
   Weather forecast app.
 
-- [In progress... 🛒 Simple Store](https://github.com/Maxuss7/Simple-Store)
+- [In progress... 🛒 Simple Store](https://github.com/Maxuss7/Simple-Store)  
   Basic online store.
 
 - [🏫 School21 DevOps](https://github.com/Maxuss7/School21-DevOps)  

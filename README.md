@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Max
 
-I want to become a Backend-Python Dev / DevOps Engineer or both :0. I'm second year MIREA student and also currently in Sber's School 21.
+I want to become a DevOps Engineer. I'm second year MIREA student and also currently in Sber's School 21.
 
 ---
 

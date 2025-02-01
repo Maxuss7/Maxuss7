@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Max
-## About Me
+### About Me
  - just an IT guy..
  - Sber's School21 student
  - 2nd year RTU MIREA student
 
 ---
 
-## 🛠️ Skills
+### 🛠️ Skills
 ### Development:
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,13 +27,13 @@
 
 ---
 
-## 📈 Statistics
+### 📈 Statistics
 ![My statistics](https://github-readme-stats.vercel.app/api?username=Maxuss7&show_icons=true&theme=radical)
 ![Top of languagegs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxuss7&layout=compact&theme=radical)
 
 ---
 
-## 📂 My pet-projects
+### 📂 My pet-projects
 - [In progress...🏫 School21 DevOps](https://github.com/Maxuss7/School21-DevOps)  
   DevOps course from School 21.
   

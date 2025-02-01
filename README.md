@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Max
-### About Me
+## About Me
  - just an IT guy..
  - Sber's School21 student
  - 2nd year RTU MIREA student
 
 ---
 
-### 🛠️ Skills
-#### Development:
+## 🛠️ Skills
+### Development:
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### DevOps:
+### DevOps:
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - ![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -27,13 +27,13 @@
 
 ---
 
-### 📈 Statistics
+## 📈 Statistics
 ![My statistics](https://github-readme-stats.vercel.app/api?username=Maxuss7&show_icons=true&theme=radical)
 ![Top of languagegs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxuss7&layout=compact&theme=radical)
 
 ---
 
-### 📂 My pet-projects
+## 📂 My pet-projects
 - [In progress...🏫 School21 DevOps](https://github.com/Maxuss7/School21-DevOps)  
   DevOps course from School 21.
   

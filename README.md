@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Max
-
 <div id="paft" align="center">
     <img src="paft.gif" width=2000%/><br>
     <a href="https://t.me/Hassuk1">
@@ -8,10 +6,9 @@
     <a href="mailto:yurkov.m.y@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <div id="welcome" align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4BF7E2&multiline=true&random=true&width=435&lines=%E2%88%92+%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2+%E2%80%A2+%E2%88%92%E2%80%A2%E2%88%92%E2%80%A2+%E2%80%A2%E2%88%92+%E2%88%92%E2%80%A2%E2%88%92+%E2%80%A2+%E2%80%A2%E2%80%A2+%E2%80%A2%E2%80%A2%E2%80%A2+%E2%80%A2%E2%88%92+%E2%80%A2%E2%88%92%E2%80%A2%E2%80%A2+%E2%80%A2%E2%80%A2+%E2%80%A2"/></a>
 </div>
-</div>
+
+# 👋 Hi, I'm Max
 
 ### About Me
  - just an IT guy..

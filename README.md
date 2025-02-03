@@ -1,6 +1,6 @@
 <div id="paft" align="center">
     <img src="paft.gif" width=2000%/><br>
-    <a href="https://t.me/Hassuk1">
+    <a href="https://t.me/zarathustraaaaa">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>&nbsp;
     </a>
     <a href="mailto:yurkov.m.y@gmail.com">

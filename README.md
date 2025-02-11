@@ -38,9 +38,6 @@
 - [🌦️ Weather App](https://github.com/Maxuss7/Weather-report)  
   This weather forecast app uses the OpenWeatherAPI to display weather predictions, and is built with React for the frontend and FastAPI for the backend.
 
-- [In progress... 🛒 Simple Store](https://github.com/Maxuss7/Simple-Store)  
-  Basic online store.
-  
 - [💻 Decimal Implementation in C](https://github.com/Maxuss7/School21-Decimal-C)  
   A library for high-precision arithmetic implemented in C. The implementation includes addition, subtraction, multiplication, and division operations, with support for rounding and scale normalization.
 

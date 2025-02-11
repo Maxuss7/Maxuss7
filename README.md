@@ -27,7 +27,7 @@
 
 ### 📈 Statistics
 ![My statistics](https://github-readme-stats.vercel.app/api?username=Maxuss7&show_icons=true&theme=radical)
-![Top of languagegs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxuss7&layout=compact&theme=radical)
+
 
 ---
 

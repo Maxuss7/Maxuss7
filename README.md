@@ -32,7 +32,7 @@
 ---
 
 ### 📂 My pet-projects
-- [In progress...🏫 School21 DevOps](https://github.com/Maxuss7/School21-DevOps)  
+- [🏫 School21 DevOps](https://github.com/Maxuss7/School21-DevOps)  
   DevOps course from School 21.
   
 - [🌦️ Weather App](https://github.com/Maxuss7/Weather-report)  
